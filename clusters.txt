@@ -1,0 +1,22 @@
+0 game design
+1 legal
+2 credit
+3 health/education
+4 operations
+5 art, design, architecture
+6 HR
+7 IT (software testing)
+8 upper management
+9 accounting/banking
+10 project management
+11 IT (software development)
+12 science/students
+13 civil/mechanical engineering
+14 marketing
+15 manufacturing
+16 lower management/employees
+17 sales
+18 security/defense
+19 IT
+20 data
+21 web
